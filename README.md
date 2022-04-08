@@ -1,4 +1,4 @@
 # Weekly-schedule
 practice css grid.
 
-https://xein-dev.github.io/Weekly-schedule/
+https://Suarez-dev.github.io/Weekly-schedule/
