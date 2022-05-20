@@ -1,4 +1,4 @@
 # Weekly-schedule
 practice css grid.
 
-https://Suarez-dev.github.io/Weekly-schedule/
+https://polyxein.github.io/Weekly-schedule/
